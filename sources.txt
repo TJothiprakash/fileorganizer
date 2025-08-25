@@ -1,0 +1,3 @@
+src/main/java/com/jp/fileorganizer/FileOrganizer.java
+src/main/java/com/jp/fileorganizer/FileStabilityChecker.java
+src/main/java/com/jp/fileorganizer/FolderWatcherVerticle.java

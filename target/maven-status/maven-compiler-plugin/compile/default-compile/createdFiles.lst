@@ -1,0 +1,4 @@
+com\jp\fileorganizer\FileOrganizer.class
+com\jp\fileorganizer\FileStabilityChecker.class
+MainVertxApp.class
+com\jp\fileorganizer\FolderWatcherVerticle.class
